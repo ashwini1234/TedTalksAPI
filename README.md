@@ -15,7 +15,7 @@ Apache Commons CSV (CSV Processing)
 
 Steps 
 Clone the repository:
-git clone https://github.com/ashwini1234/xx 
+git clone https://github.com/ashwini1234/TedTalksAPI/
 Run Mvn clean install
 Run TedtalksApplication
 Access the APIs via Postman or a web browser:
